@@ -6,6 +6,6 @@ My first Website
 https://vinyashegde.github.io/
 
 
-## Alternate Website Link😁
+## Alternate Website Link😁(Deprecated)
 
 https://vinyashegde.000webhostapp.com/
