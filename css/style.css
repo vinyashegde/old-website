@@ -55,6 +55,7 @@ ul li.active a{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
+  display: flex;
 }
 
 p{
@@ -77,6 +78,7 @@ p{
 	top: 62%;
 	left: 50%;
 	transform: translate(-50%,-50%);
+  display: flex;
 }
 
 .btn{
