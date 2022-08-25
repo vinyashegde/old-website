@@ -15,6 +15,7 @@ ul{
 	float: right;
 	list-style-type: none;
 	margin-top: 25px;
+  display: flex;
 }
 
 ul li{
@@ -78,7 +79,7 @@ p{
 	top: 62%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-  	display: flex;
+  display: flex;
 }
 
 .btn{
